@@ -1,4 +1,4 @@
-# NORSE Linux
+# NORSElinux
 NORSE Linux is a security-focused Linux distribution for ARM-based SBCs and cloud containers.
 
 Main differing features are:
